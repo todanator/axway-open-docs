@@ -1,5 +1,5 @@
 ---
-title: Secure an API with OAuth - seth
+title: Secure an API with OAuth
 linkTitle: Secure an API with OAuth
 weight: 4
 date: 2019-07-30T00:00:00.000Z
@@ -7,7 +7,7 @@ description: >-
   API proxies can be secured with a client authentication policy. Learn how to
   set up an OAuth front-end security policy on an API proxy.
 ---
-_Estimated reading time: 5 minutes_
+_Estimated reading time: 5 years_
 
 ## Before you start
 
